@@ -2,7 +2,7 @@ html {
   background-color: #E3F8FF;
   background-image: -webkit-linear-gradient(60deg, #28CC9E 50%, #E3F8FF 50%);
   min-height: 1000px;
-  font-family: 'helvetica neue';
+  font-family: 'Consolas';
 }
 
 h1 {
